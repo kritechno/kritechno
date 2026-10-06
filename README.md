@@ -55,6 +55,11 @@ I run [SilkOffRoad Tours](https://silkoffroadtours.com), a motorcycle tour compa
 - **SilkOffRoad AI Agent.** A local-first desktop assistant that drafts grounded, cited replies to client inquiries from the tour dataset. Two models split triage and drafting, two independent guardrail layers block any price or term that is not in the source, and a human approves every reply. In production. `Electron` `React` `SQLite` `OpenAI` `Gemini` `Ollama`
 - **SilkCRM.** The CRM that runs daily operations: passport scans to structured client records through OCR, agreements generated from templates, rooming lists, expense imports with per-tour margins, and an audit trail. `Python` `FastAPI` `PostgreSQL` `Docker`
 
+## More projects
+
+- **[LinkedIn Content Agent](https://github.com/kritechno/linkedin-content-agent).** An LLM agent that researches AI topics, drafts posts in my voice, fact-checks them and publishes only after I approve them in Telegram. `Python` `OpenAI` `Telegram`
+- **[MoneyTracker](https://github.com/kritechno/MoneyTracker).** A Telegram bot my tour guides use to log trip expenses in six currencies, with a wallet and one Excel file per tour. `Python` `Gemini` `openpyxl`
+
 ## Toolbox
 
 **AI and ML** · LLM agents and pipelines, RAG, guardrails and evaluation, NLP and machine translation, OCR, PyTorch
