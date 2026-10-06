@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://amirbuzubayev.com"><img src="https://img.shields.io/badge/Portfolio-amirbuzubayev.com-1f6feb?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/amir-buzubayev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/amir-buzubayev-01050a23b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://kritechno.github.io/clicko/"><img src="https://img.shields.io/badge/Try-Clicko-f0883e?style=for-the-badge" alt="Try Clicko"></a>
 </p>
 
@@ -72,4 +72,4 @@ I run [SilkOffRoad Tours](https://silkoffroadtours.com), a motorcycle tour compa
 
 ## Get in touch
 
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/amir-buzubayev). More projects and case studies are at [amirbuzubayev.com](https://amirbuzubayev.com).
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/amir-buzubayev-01050a23b). More projects and case studies are at [amirbuzubayev.com](https://amirbuzubayev.com).
